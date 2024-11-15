@@ -1,6 +1,6 @@
 ## Hola gente 👋
 
-👾 Me llamo Gustavo Martínez y actualmente estudiando ingeniería en inteligencia artificial. Aquí encontrarán algunos ejercicios y proyectos que he hecho a lo largo de mi carrera. 👾
+👾 Me llamo Gustavo Martínez y actualmente estoy estudiando una ingeniería en inteligencia artificial. Aquí encontrarán algunos ejercicios y proyectos que he hecho a lo largo de mi carrera. 👾
 
 <!--
 **iAdachi/iAdachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
