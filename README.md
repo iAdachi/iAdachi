@@ -7,7 +7,6 @@
     ⚡ I'm currently studying artificial intelligence engineering.<br>
     🎻 I love all the forms of art.
   </ul>
-  <br>
 <p align="center"><i>memento mori</i></p>
 <!--
 🖥️📌📊🎈
