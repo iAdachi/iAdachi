@@ -1,8 +1,27 @@
-## Hola gente 👋
+<h1 align="center">👾 Gustavo Martínez 👾</h1>
+  
+<h2 align="center"> ML 📌 | Data Analytics 📊 | NLP 💬</h2>
 
-👾 Me llamo Gustavo Martínez y actualmente estoy estudiando una ingeniería en inteligencia artificial. Aquí encontrarán algunos ejercicios y proyectos que he hecho a lo largo de mi carrera. 👾
-
+  <h3>🎈About me </h3>
+  <ul>
+    ⚡ I'm currently studying artificial intelligence engineering.<br>
+    🎻 I love all the forms of art.
+  </ul>
+  <br>
+<p align="center"><i>memento mori</i></p>
 <!--
+🖥️📌📊🎈
+## Hi there! 👋
+
+👾 I'm Gustavo and... 👾
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 **iAdachi/iAdachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
